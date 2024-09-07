@@ -1,0 +1,27 @@
+o que deve ser utilizado
+
+- Variaveis
+- Operadores
+- lacos de repeticao
+- Estrutura de decisao
+
+Objetivo
+
+Crie uma variavel para armazenar o nome e a quantidade de experiencia (XP)
+de um heroi, depois utilize uma estrutura de decisao para apresentar alguma
+mensagem:
+
+Se a XP for menor do que 1.000 = Ferro
+Se a XP for entre 1001 a 2000 = Bronze
+Se a XP for entre 2001 a 5000 = Prata
+Se a XP for entre 5001 a 7000 = Ouro
+Se a XP for entre 7001 a 8000 = Platina
+Se a XP for entre 8001 a 9000 = Ascendente
+Se a XP for entre 9001 a 10000 = Imortal
+Se a XP for maior ou igual a 10000 = Radiante
+
+
+--Saida
+
+Ao final deve exibir a seguinte mensagem 
+O heroi de nome[nomeHeroi] esta no nivel de [Nivel]
